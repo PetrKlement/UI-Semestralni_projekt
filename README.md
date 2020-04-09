@@ -21,6 +21,6 @@ Celý program byl zpracován v programovacím jazyce C#.
 *****************************
 # Spuštění aplikace:
 Windows:
-• Je třeba mít soubor UIProjekt1.exe, který je součástí odevzdané práce
-• Je třeba mít program, který je schopen ho spustit. V našem případě například IDE Visual studio
-• Je třeba mít přiložený soubor MAZE.bmp uložený na disku D ( D:\MAZE.bmp). Pokud by ho chtěl mít uživatel uložen jinde, je třeba upravit cestu ve třídě Bitmapovani na 23. řádku.
+- Je třeba mít soubor UIProjekt1.exe, který je součástí odevzdané práce
+- Je třeba mít program, který je schopen ho spustit. V našem případě například IDE Visual studio
+- Je třeba mít přiložený soubor MAZE.bmp uložený na disku D ( D:\MAZE.bmp). Pokud by ho chtěl mít uživatel uložen jinde, je třeba upravit cestu ve třídě Bitmapovani na 23. řádku.
