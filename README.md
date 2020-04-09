@@ -7,6 +7,7 @@ Mějme agenta v 2D prostoru, jehož atributem je směr natočení (Sever, Jih, V
 - Otoč se o 90° doprava (cena 1 bod)
 - Otoč se o 180° (cena 2 body)
 - Udělej krok vpřed o jedno pole (cena 3 body)
+
 Navrhněte v libovolném programovacím jazyku implementaci A* algoritmu tak, aby agent dorazil ze svého počátečního stavu do stavu koncového. Počáteční i koncový stav jsou volitelné. Přípustné akce jsou pouze ty, které agenta umístí na bílé pole.
 **********
 # Rěšení
