@@ -25,4 +25,4 @@ Po převedení bitmapového obrázku do pole nul a jedniček hlavní metoda “G
 Windows:
 - Je třeba mít soubor UI_Projekt_AstarAlgoritmus.exe, který je součástí odevzdané práce
 - Je třeba mít program, který je schopen ho spustit. V našem případě například IDE Visual studio
-- Je třeba mít přiložený soubor MAZE.bmp uložený na disku D ( D:\MAZE.bmp). Pokud by ho chtěl mít uživatel uložen jinde, je třeba upravit cestu ve třídě Bitmapovani na 23. řádku.
+- Je třeba mít přiložený soubor MAZE.bmp uložený na disku D ( D:\MAZE.bmp). Pokud by ho chtěl mít uživatel uložen jinde, je třeba upravit cestu ve třídě Bitmapping na 19. řádku.
