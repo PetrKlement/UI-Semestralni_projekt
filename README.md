@@ -13,7 +13,7 @@ Navrhněte v libovolném programovacím jazyku implementaci A* algoritmu tak, ab
 # Rěšení
 Celý program byl zpracován v programovacím jazyce C#. 
 
-Po převedení bitmapového obrázku do pole nul hlavní metoda “Go“ volá funkce, které zajistí.
+Po převedení bitmapového obrázku do pole nul a jedniček hlavní metoda “Go“ volá funkce, které zajistí.
 - Generace polohy pro zjištění ceny
 - Určení ceny konkrétního pole
 - Zvýšení ceny podle otočení (viz. zadání)
